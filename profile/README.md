@@ -14,9 +14,16 @@
     <br />
     <a href="https://github.com/orgs/ZeroTwentyFifty/discussions">Discussions</a>
     ·
-    <a href="https://www.zerotwentyfifty.com">Website</a>
+    <a href="https://www.zerotwentyfifty.com/blog">Blog</a>
+    ·
+    <a href="https://www.zerotwentyfifty.com/solutions">Solutions</a>
+    ·
+    <a href="https://www.zerotwentyfifty.com/services">Services</a>
+    ·
+    <a href="https://mailchi.mp/zerotwentyfifty.com/newsletter">Newsletter</a>
 <!--     · -->
 <!--     <a href="https://github.com/ZeroTwentyFifty/ZeroTwentyFifty/issues">Issues</a>
+    https://mailchi.mp/zerotwentyfifty.com/newsletter
     ·
     <a href="https://www.zerotwentyfifty.com/roadmap">Roadmap</a> -->
   </p>
